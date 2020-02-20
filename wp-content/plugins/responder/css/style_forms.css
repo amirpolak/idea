@@ -1,0 +1,147 @@
+@CHARSET "ISO-8859-1";
+
+
+.res-form-hor .res-field-width-2{
+	width:50%;
+}
+
+.res-form-hor .res-field-width-3{
+	width:33%;
+}
+
+.res-form-hor .res-field-width-4{
+	width:25%;
+}
+
+.res-form-hor .res-field-width-5{
+	width:20%;
+}
+
+.res-form-hor .res-field-width-6{
+	width:15%;
+}
+
+
+@media (max-width:480px) {
+	
+	.res-form-hor .res-form-field{
+		width:100%;
+	}
+	
+}
+
+	
+
+/* form protection */
+.responder-form-wrapper{
+	padding:0px !important;
+	margin:0px !important;
+}
+
+.responder-rtl{
+	direction:rtl;
+}
+
+
+.responder-form-main-wrapper  .elementor-mark-required .elementor-field-label::after{
+	padding-right:0.2em;
+}
+
+.responder-form-main-wrapper .responder-message-error{
+	padding-top:10px;
+	color:red;
+}
+
+
+.responder-form-main-wrapper label{
+	display:block;
+	margin-bottom:0px;
+	font-size:14px;
+	font-weight:400;
+	line-height:1.5em;
+	outline:none;
+	float:none !important;
+	cursor:default;
+}
+
+.responder-form-hor label{
+	display:inline-block;	
+}
+
+/* button */
+
+.responder-form-main-wrapper .res-button-submit,
+.responder-form-main-wrapper .res-button-submit:hover,
+.responder-form-main-wrapper .res-button-submit:focus,
+.responder-form-main-wrapper .res-button-submit:visited{
+	    background-color: #61ce70;
+	    color:#ffffff;
+		border-width:1px;
+		border-style:none;
+		border-color:#34A844;
+		cursor:pointer;
+		display:inline-block;
+		font-size:14px;
+		font-weight:400;
+		padding:0px;
+		
+		line-height:34px;
+		font-size:14px;
+		
+		border-radius:4px;
+		
+		transition:background 0.2s ease 0s;
+	
+    	margin:0px;
+    	    	
+		min-height:10px !important;
+    	text-shadow:none !important;
+    	-webkit-box-shadow: none !important;
+    	box-shadow: none !important;
+    	box-sizing:border-box;
+    	text-transform:none !important;
+}
+
+	
+.responder-rtl .res-button-submit{
+	direction:rtl;
+}
+
+
+.responder-form-main-wrapper.responder-form-vert .res-button-submit{
+    	margin-top:5px;
+}
+
+
+.responder-form-main-wrapper .res-button-submit:hover{
+	   background-color:#3ABC4C;
+}
+
+/* other inputs */
+
+.responder-form-main-wrapper input[type="text"],
+.responder-form-main-wrapper textarea,
+.responder-form-main-wrapper input[type="text"]:hover,
+.responder-form-main-wrapper input[type="text"].is-focused{
+	    padding: 5px;
+	    border: 1px solid #ccc;
+	    border-radius: 4px;
+		line-height:1.5em;
+		font-size:14px;
+		min-height:20px !important;
+		
+		background-image: none !important;
+	    float: none !important;
+	    margin-bottom:0px;
+	    box-sizing:border-box;
+	    outline:none;
+	}
+
+.responder-form-main-wrapper.responder-form-vert .res-form-field{
+	width:100%;
+}
+
+.responder-form-main-wrapper input[type="text"]{
+	width:100%;
+}
+

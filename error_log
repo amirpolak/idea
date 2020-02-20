@@ -1,0 +1,954 @@
+[30-Aug-2019 19:57:04 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/amirpola/idea.amirpolak.info/wp-includes/media.php on line 442
+[08-Sep-2019 08:20:33 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 90
+[08-Sep-2019 20:58:09 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/template-parts/aboutus-page.php on line 25
+[08-Sep-2019 20:58:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/template-parts/aboutus-page.php on line 89
+[08-Sep-2019 20:58:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/template-parts/aboutus-page.php on line 89
+[08-Sep-2019 20:58:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/template-parts/aboutus-page.php on line 89
+[08-Sep-2019 20:59:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/template-parts/aboutus-page.php on line 89
+[08-Sep-2019 20:59:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/template-parts/aboutus-page.php on line 89
+[08-Sep-2019 20:59:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/template-parts/aboutus-page.php on line 89
+[08-Sep-2019 20:59:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/template-parts/aboutus-page.php on line 89
+[08-Sep-2019 20:59:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/template-parts/aboutus-page.php on line 89
+[10-Sep-2019 18:40:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/ourstudio.php on line 69
+[10-Sep-2019 18:40:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/ourstudio.php on line 69
+[10-Sep-2019 18:42:05 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/ourstudio.php on line 47
+[15-Sep-2019 10:04:33 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/front-page.php on line 50
+[15-Sep-2019 10:04:35 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/front-page.php on line 50
+[22-Sep-2019 09:27:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Term::term_id() in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php:218
+Stack trace:
+#0 /home/amirpola/idea.amirpolak.info/wp-includes/template-loader.php(78): include()
+#1 /home/amirpola/idea.amirpolak.info/wp-blog-header.php(19): require_once('/home/amirpola/...')
+#2 /home/amirpola/idea.amirpolak.info/index.php(17): require('/home/amirpola/...')
+#3 {main}
+  thrown in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 218
+[22-Sep-2019 09:27:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Term::term_id() in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php:218
+Stack trace:
+#0 /home/amirpola/idea.amirpolak.info/wp-includes/template-loader.php(78): include()
+#1 /home/amirpola/idea.amirpolak.info/wp-blog-header.php(19): require_once('/home/amirpola/...')
+#2 /home/amirpola/idea.amirpolak.info/index.php(17): require('/home/amirpola/...')
+#3 {main}
+  thrown in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 218
+[23-Sep-2019 13:59:39 UTC] PHP Fatal error:  Class 'W3TC\Util_Content' not found in /home/amirpola/idea.amirpolak.info/wp-includes/widgets/class-wp-widget-links.php on line 156
+[23-Sep-2019 13:59:39 UTC] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[23-Sep-2019 13:59:39 UTC] PHP Fatal error:  Class 'W3TC\Util_Content' not found in /home/amirpola/idea.amirpolak.info/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-textarea.php on line 27
+[23-Sep-2019 13:59:39 UTC] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[23-Sep-2019 13:59:39 UTC] PHP Fatal error:  Class 'W3TC\Util_Content' not found in /home/amirpola/idea.amirpolak.info/wp-content/plugins/contact-form-7/modules/file.php on line 275
+[23-Sep-2019 13:59:39 UTC] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[23-Sep-2019 14:01:26 UTC] PHP Fatal error:  Class 'W3TC\Util_Content' not found in /home/amirpola/idea.amirpolak.info/wp-content/plugins/contact-form-7/modules/checkbox.php on line 152
+[23-Sep-2019 14:01:26 UTC] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[23-Sep-2019 14:01:26 UTC] PHP Fatal error:  Class 'W3TC\Util_Content' not found in /home/amirpola/idea.amirpolak.info/wp-content/plugins/rocket-lazy-load/src/Subscriber/AdminPageSubscriber.php on line 79
+[23-Sep-2019 14:01:26 UTC] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[28-Oct-2019 15:44:21 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[30-Oct-2019 15:25:31 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[31-Oct-2019 12:28:58 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[31-Oct-2019 12:37:26 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[31-Oct-2019 16:54:32 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[31-Oct-2019 16:55:09 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[31-Oct-2019 16:56:32 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[31-Oct-2019 16:56:39 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[31-Oct-2019 17:10:30 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[06-Nov-2019 13:00:23 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[06-Nov-2019 13:00:57 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[06-Nov-2019 13:01:34 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[07-Nov-2019 17:35:59 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[07-Nov-2019 17:36:06 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[07-Nov-2019 17:36:11 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[07-Nov-2019 17:36:18 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[07-Nov-2019 17:47:11 UTC] PHP Notice:  wp_localize_script was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/amirpola/idea.amirpolak.info/wp-includes/functions.php on line 4778
+[07-Nov-2019 17:47:11 UTC] PHP Notice:  Trying to get property of non-object in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 165
+[07-Nov-2019 17:47:11 UTC] PHP Notice:  Trying to get property of non-object in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 165
+[07-Nov-2019 17:48:30 UTC] PHP Notice:  wp_localize_script נקרא <strong>בצורה לא תקינה</strong>. סקריפטים וסגנונות לא צריכים להרשם או להיטען לפני ווים <code>wp_enqueue_scripts</code>,<code>admin_enqueue_scripts</code>, או <code>login_enqueue_scripts</code>. למידע נוסף כנסו ל<a href="https://codex.wordpress.org/Debugging_in_WordPress">ניפוי תקלות בוורדפרס</a>. (הודעה זו נוספה בגרסה 3.3.0.) in /home/amirpola/idea.amirpolak.info/wp-includes/functions.php on line 4778
+[07-Nov-2019 17:48:33 UTC] PHP Notice:  wp_localize_script נקרא <strong>בצורה לא תקינה</strong>. סקריפטים וסגנונות לא צריכים להרשם או להיטען לפני ווים <code>wp_enqueue_scripts</code>,<code>admin_enqueue_scripts</code>, או <code>login_enqueue_scripts</code>. למידע נוסף כנסו ל<a href="https://codex.wordpress.org/Debugging_in_WordPress">ניפוי תקלות בוורדפרס</a>. (הודעה זו נוספה בגרסה 3.3.0.) in /home/amirpola/idea.amirpolak.info/wp-includes/functions.php on line 4778
+[07-Nov-2019 17:48:36 UTC] PHP Notice:  wp_localize_script נקרא <strong>בצורה לא תקינה</strong>. סקריפטים וסגנונות לא צריכים להרשם או להיטען לפני ווים <code>wp_enqueue_scripts</code>,<code>admin_enqueue_scripts</code>, או <code>login_enqueue_scripts</code>. למידע נוסף כנסו ל<a href="https://codex.wordpress.org/Debugging_in_WordPress">ניפוי תקלות בוורדפרס</a>. (הודעה זו נוספה בגרסה 3.3.0.) in /home/amirpola/idea.amirpolak.info/wp-includes/functions.php on line 4778
+[07-Nov-2019 17:48:39 UTC] PHP Notice:  wp_localize_script נקרא <strong>בצורה לא תקינה</strong>. סקריפטים וסגנונות לא צריכים להרשם או להיטען לפני ווים <code>wp_enqueue_scripts</code>,<code>admin_enqueue_scripts</code>, או <code>login_enqueue_scripts</code>. למידע נוסף כנסו ל<a href="https://codex.wordpress.org/Debugging_in_WordPress">ניפוי תקלות בוורדפרס</a>. (הודעה זו נוספה בגרסה 3.3.0.) in /home/amirpola/idea.amirpolak.info/wp-includes/functions.php on line 4778
+[07-Nov-2019 17:49:25 UTC] PHP Notice:  wp_localize_script was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/amirpola/idea.amirpolak.info/wp-includes/functions.php on line 4778
+[07-Nov-2019 17:49:25 UTC] PHP Notice:  Trying to get property of non-object in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 165
+[07-Nov-2019 17:49:25 UTC] PHP Notice:  Trying to get property of non-object in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 165
+[07-Nov-2019 17:49:29 UTC] PHP Notice:  wp_localize_script was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/amirpola/idea.amirpolak.info/wp-includes/functions.php on line 4778
+[07-Nov-2019 17:49:29 UTC] PHP Notice:  Trying to get property of non-object in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 165
+[07-Nov-2019 17:49:29 UTC] PHP Notice:  Trying to get property of non-object in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 165
+[07-Nov-2019 17:50:52 UTC] PHP Notice:  wp_localize_script was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/amirpola/idea.amirpolak.info/wp-includes/functions.php on line 4778
+[07-Nov-2019 17:50:53 UTC] PHP Notice:  Trying to get property of non-object in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 165
+[07-Nov-2019 17:50:53 UTC] PHP Notice:  Trying to get property of non-object in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 165
+[07-Nov-2019 17:51:34 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/functions.php on line 417
+[07-Nov-2019 17:51:50 UTC] PHP Notice:  wp_localize_script was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/amirpola/idea.amirpolak.info/wp-includes/functions.php on line 4778
+[07-Nov-2019 17:51:50 UTC] PHP Notice:  Trying to get property of non-object in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 165
+[07-Nov-2019 17:51:50 UTC] PHP Notice:  Trying to get property of non-object in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 165
+[07-Nov-2019 17:53:17 UTC] PHP Notice:  wp_localize_script was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/amirpola/idea.amirpolak.info/wp-includes/functions.php on line 4778
+[07-Nov-2019 17:53:17 UTC] PHP Notice:  Trying to get property of non-object in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 167
+[07-Nov-2019 17:53:17 UTC] PHP Notice:  Trying to get property of non-object in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 167
+[07-Nov-2019 17:55:34 UTC] PHP Notice:  wp_localize_script was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/amirpola/idea.amirpolak.info/wp-includes/functions.php on line 4778
+[07-Nov-2019 17:55:34 UTC] PHP Notice:  Trying to get property of non-object in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 167
+[07-Nov-2019 17:55:34 UTC] PHP Notice:  Trying to get property of non-object in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 167
+[07-Nov-2019 17:55:46 UTC] PHP Notice:  wp_localize_script was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/amirpola/idea.amirpolak.info/wp-includes/functions.php on line 4778
+[07-Nov-2019 17:55:46 UTC] PHP Notice:  Trying to get property of non-object in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 166
+[07-Nov-2019 17:55:46 UTC] PHP Notice:  Trying to get property of non-object in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 166
+[07-Nov-2019 17:56:30 UTC] PHP Notice:  wp_localize_script was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/amirpola/idea.amirpolak.info/wp-includes/functions.php on line 4778
+[07-Nov-2019 17:56:30 UTC] PHP Notice:  Trying to get property of non-object in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 166
+[07-Nov-2019 17:56:30 UTC] PHP Notice:  Trying to get property of non-object in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 166
+[07-Nov-2019 17:58:43 UTC] PHP Notice:  wp_localize_script נקרא <strong>בצורה לא תקינה</strong>. סקריפטים וסגנונות לא צריכים להרשם או להיטען לפני ווים <code>wp_enqueue_scripts</code>,<code>admin_enqueue_scripts</code>, או <code>login_enqueue_scripts</code>. למידע נוסף כנסו ל<a href="https://codex.wordpress.org/Debugging_in_WordPress">ניפוי תקלות בוורדפרס</a>. (הודעה זו נוספה בגרסה 3.3.0.) in /home/amirpola/idea.amirpolak.info/wp-includes/functions.php on line 4778
+[07-Nov-2019 17:58:43 UTC] PHP Notice:  wp_localize_script נקרא <strong>בצורה לא תקינה</strong>. סקריפטים וסגנונות לא צריכים להרשם או להיטען לפני ווים <code>wp_enqueue_scripts</code>,<code>admin_enqueue_scripts</code>, או <code>login_enqueue_scripts</code>. למידע נוסף כנסו ל<a href="https://codex.wordpress.org/Debugging_in_WordPress">ניפוי תקלות בוורדפרס</a>. (הודעה זו נוספה בגרסה 3.3.0.) in /home/amirpola/idea.amirpolak.info/wp-includes/functions.php on line 4778
+[07-Nov-2019 17:59:01 UTC] PHP Notice:  wp_localize_script נקרא <strong>בצורה לא תקינה</strong>. סקריפטים וסגנונות לא צריכים להרשם או להיטען לפני ווים <code>wp_enqueue_scripts</code>,<code>admin_enqueue_scripts</code>, או <code>login_enqueue_scripts</code>. למידע נוסף כנסו ל<a href="https://codex.wordpress.org/Debugging_in_WordPress">ניפוי תקלות בוורדפרס</a>. (הודעה זו נוספה בגרסה 3.3.0.) in /home/amirpola/idea.amirpolak.info/wp-includes/functions.php on line 4778
+[07-Nov-2019 17:59:02 UTC] PHP Notice:  wp_localize_script נקרא <strong>בצורה לא תקינה</strong>. סקריפטים וסגנונות לא צריכים להרשם או להיטען לפני ווים <code>wp_enqueue_scripts</code>,<code>admin_enqueue_scripts</code>, או <code>login_enqueue_scripts</code>. למידע נוסף כנסו ל<a href="https://codex.wordpress.org/Debugging_in_WordPress">ניפוי תקלות בוורדפרס</a>. (הודעה זו נוספה בגרסה 3.3.0.) in /home/amirpola/idea.amirpolak.info/wp-includes/functions.php on line 4778
+[07-Nov-2019 17:59:03 UTC] PHP Notice:  wp_localize_script נקרא <strong>בצורה לא תקינה</strong>. סקריפטים וסגנונות לא צריכים להרשם או להיטען לפני ווים <code>wp_enqueue_scripts</code>,<code>admin_enqueue_scripts</code>, או <code>login_enqueue_scripts</code>. למידע נוסף כנסו ל<a href="https://codex.wordpress.org/Debugging_in_WordPress">ניפוי תקלות בוורדפרס</a>. (הודעה זו נוספה בגרסה 3.3.0.) in /home/amirpola/idea.amirpolak.info/wp-includes/functions.php on line 4778
+[07-Nov-2019 17:59:04 UTC] PHP Notice:  wp_localize_script נקרא <strong>בצורה לא תקינה</strong>. סקריפטים וסגנונות לא צריכים להרשם או להיטען לפני ווים <code>wp_enqueue_scripts</code>,<code>admin_enqueue_scripts</code>, או <code>login_enqueue_scripts</code>. למידע נוסף כנסו ל<a href="https://codex.wordpress.org/Debugging_in_WordPress">ניפוי תקלות בוורדפרס</a>. (הודעה זו נוספה בגרסה 3.3.0.) in /home/amirpola/idea.amirpolak.info/wp-includes/functions.php on line 4778
+[07-Nov-2019 17:59:05 UTC] PHP Notice:  wp_localize_script נקרא <strong>בצורה לא תקינה</strong>. סקריפטים וסגנונות לא צריכים להרשם או להיטען לפני ווים <code>wp_enqueue_scripts</code>,<code>admin_enqueue_scripts</code>, או <code>login_enqueue_scripts</code>. למידע נוסף כנסו ל<a href="https://codex.wordpress.org/Debugging_in_WordPress">ניפוי תקלות בוורדפרס</a>. (הודעה זו נוספה בגרסה 3.3.0.) in /home/amirpola/idea.amirpolak.info/wp-includes/functions.php on line 4778
+[07-Nov-2019 18:01:13 UTC] PHP Notice:  wp_localize_script was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/amirpola/idea.amirpolak.info/wp-includes/functions.php on line 4778
+[07-Nov-2019 18:01:14 UTC] PHP Notice:  Trying to get property of non-object in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 165
+[07-Nov-2019 18:01:14 UTC] PHP Notice:  Trying to get property of non-object in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 165
+[07-Nov-2019 18:01:20 UTC] PHP Notice:  wp_localize_script was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/amirpola/idea.amirpolak.info/wp-includes/functions.php on line 4778
+[07-Nov-2019 18:01:32 UTC] PHP Notice:  wp_localize_script was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/amirpola/idea.amirpolak.info/wp-includes/functions.php on line 4778
+[07-Nov-2019 18:01:32 UTC] PHP Notice:  Trying to get property of non-object in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 165
+[07-Nov-2019 18:01:32 UTC] PHP Notice:  Trying to get property of non-object in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 165
+[07-Nov-2019 18:02:01 UTC] PHP Notice:  wp_localize_script was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/amirpola/idea.amirpolak.info/wp-includes/functions.php on line 4778
+[07-Nov-2019 18:02:01 UTC] PHP Notice:  Trying to get property of non-object in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 167
+[07-Nov-2019 18:02:01 UTC] PHP Notice:  Trying to get property of non-object in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 167
+[07-Nov-2019 18:02:10 UTC] PHP Notice:  wp_localize_script was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/amirpola/idea.amirpolak.info/wp-includes/functions.php on line 4778
+[07-Nov-2019 18:05:54 UTC] PHP Parse error:  syntax error, unexpected '$tax' (T_VARIABLE) in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/archive.php on line 97
+[11-Nov-2019 06:55:15 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[11-Nov-2019 06:55:32 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[11-Nov-2019 06:59:20 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[11-Nov-2019 07:02:12 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[11-Nov-2019 07:02:13 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[11-Nov-2019 07:04:08 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[11-Nov-2019 09:40:21 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[11-Nov-2019 09:40:35 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[13-Nov-2019 06:47:58 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[13-Nov-2019 07:30:23 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[13-Nov-2019 08:03:06 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[13-Nov-2019 08:03:11 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[13-Nov-2019 08:03:14 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[13-Nov-2019 08:03:15 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[13-Nov-2019 08:03:15 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[13-Nov-2019 08:03:16 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[13-Nov-2019 08:03:17 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[13-Nov-2019 08:03:19 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[13-Nov-2019 08:14:13 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[13-Nov-2019 09:34:27 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[13-Nov-2019 09:34:30 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[13-Nov-2019 09:34:33 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[13-Nov-2019 09:34:48 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[13-Nov-2019 09:34:55 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[13-Nov-2019 09:34:58 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[13-Nov-2019 09:35:13 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4193
+[13-Nov-2019 12:39:59 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4281
+[13-Nov-2019 12:39:59 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4281
+[13-Nov-2019 13:02:09 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/front-page.php:41
+Stack trace:
+#0 /home/amirpola/idea.amirpolak.info/wp-includes/template-loader.php(98): include()
+#1 /home/amirpola/idea.amirpolak.info/wp-blog-header.php(19): require_once('/home/amirpola/...')
+#2 /home/amirpola/idea.amirpolak.info/index.php(17): require('/home/amirpola/...')
+#3 {main}
+  thrown in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/front-page.php on line 41
+[13-Nov-2019 13:12:11 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/functions.php on line 722
+[13-Nov-2019 15:31:34 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4281
+[13-Nov-2019 15:31:34 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4281
+[13-Nov-2019 15:31:39 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4281
+[13-Nov-2019 15:31:39 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4281
+[13-Nov-2019 15:32:34 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4281
+[13-Nov-2019 15:32:34 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4281
+[13-Nov-2019 15:34:07 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4281
+[13-Nov-2019 15:34:07 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4281
+[13-Nov-2019 15:55:13 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4281
+[13-Nov-2019 15:55:13 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4281
+[14-Nov-2019 10:18:45 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4281
+[14-Nov-2019 10:18:45 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4281
+[14-Nov-2019 12:42:30 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4281
+[14-Nov-2019 12:42:30 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4281
+[14-Nov-2019 12:46:48 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4281
+[14-Nov-2019 12:46:48 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4281
+[17-Nov-2019 08:01:18 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4281
+[17-Nov-2019 08:01:18 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4281
+[17-Nov-2019 10:56:07 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4281
+[17-Nov-2019 10:56:07 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4281
+[17-Nov-2019 10:57:10 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4281
+[17-Nov-2019 10:57:10 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, object given in /home/amirpola/idea.amirpolak.info/wp-includes/formatting.php on line 4281
+[02-Dec-2019 10:43:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/template-parts/content.php on line 13
+[03-Dec-2019 07:10:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/template-parts/content.php on line 13
+[03-Dec-2019 12:44:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/template-parts/content.php on line 13
+[04-Dec-2019 06:43:20 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:43:20 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:43:20 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:46:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:46:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:46:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:46:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:46:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:46:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:46:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:46:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:46:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:46:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:46:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:46:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:46:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:46:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:46:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:46:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:46:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:46:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:46:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:46:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:46:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:46:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:46:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:46:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:48:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/template-parts/content.php on line 13
+[04-Dec-2019 06:48:26 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:48:26 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:48:26 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:48:26 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:48:26 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:48:26 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:48:26 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:48:26 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:48:26 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:48:26 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:48:26 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:48:26 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:50:00 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:50:00 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:50:00 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:50:00 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:50:00 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:50:00 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:50:00 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:50:00 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:50:00 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:50:00 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:50:00 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:50:00 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:51:40 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:51:40 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:55:03 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:55:03 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:55:03 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:55:03 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:55:03 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:55:03 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:55:03 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:55:03 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:55:03 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:55:03 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:55:03 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 06:55:03 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:05:58 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:05:58 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:05:58 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:05:58 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:05:58 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:05:58 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:05:58 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:05:58 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:05:58 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:05:58 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:05:58 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:05:58 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:06:02 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:06:02 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:06:02 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:06:02 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:06:02 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:06:02 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:06:02 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:06:02 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:06:02 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:06:02 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:06:02 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:06:02 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:37:00 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:37:00 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:37:00 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:37:00 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:37:00 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:37:00 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:37:00 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:37:00 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:37:00 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:37:00 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:37:00 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 07:37:00 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 08:50:35 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 08:50:35 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 08:50:35 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 08:50:35 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 08:50:35 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 08:50:35 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 08:50:35 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 08:50:35 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 08:50:35 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 08:50:35 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 08:50:35 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 08:50:35 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 08:50:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/template-parts/content.php on line 13
+[04-Dec-2019 08:58:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 08:58:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 08:58:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 08:58:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 08:58:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 08:58:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 08:58:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 08:58:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 08:58:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 08:58:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 08:58:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 08:58:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 09:52:05 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 09:52:05 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 09:52:05 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 09:52:05 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 09:52:05 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 09:52:05 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 09:52:05 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 09:52:05 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 09:52:05 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 09:52:05 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 09:52:05 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 09:52:05 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 09:55:53 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 09:55:53 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 09:55:53 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 09:55:53 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 09:55:53 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 09:55:53 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 09:55:53 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 09:55:53 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 09:55:53 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 09:55:53 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 09:55:53 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 09:55:53 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 10:14:20 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 10:14:20 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 10:14:20 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 10:14:20 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 10:14:20 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 10:14:20 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 10:14:20 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 10:14:20 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 10:14:20 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 10:14:20 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 10:14:20 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 10:14:20 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 11:54:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 11:54:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 11:54:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 11:54:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 11:54:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 11:54:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 11:54:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 11:54:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 11:54:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 11:54:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 11:54:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 11:54:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:33:51 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:33:51 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:33:51 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:33:51 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:33:51 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:33:51 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:33:51 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:33:51 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:33:51 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:33:51 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:33:51 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:33:51 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:47:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:47:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:47:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:47:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:47:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:47:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:47:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:47:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:47:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:47:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:47:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:47:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:51:37 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:51:37 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:51:37 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:51:37 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:51:37 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:51:37 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:51:37 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:51:37 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:51:37 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:51:37 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:51:37 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 12:51:37 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:06:32 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:06:32 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:06:32 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:06:32 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:06:32 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:06:32 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:06:32 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:06:32 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:06:32 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:06:32 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:06:32 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:06:32 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:12:24 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:12:24 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:12:24 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:12:24 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:12:24 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:12:24 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:12:24 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:12:24 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:12:24 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:12:24 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:12:24 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:12:24 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:25:16 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:25:16 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:25:16 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:25:16 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:25:16 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:25:16 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:25:16 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:25:16 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:25:16 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:25:16 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:25:16 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:25:16 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:34:25 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:34:25 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:34:25 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:34:25 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:34:25 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:34:25 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:34:25 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:34:25 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:34:25 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:34:25 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:34:25 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:34:25 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:35:41 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:35:41 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:35:41 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:35:41 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:35:41 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:35:41 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:35:41 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:35:41 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:35:41 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:35:41 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:35:41 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:35:41 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:04 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:04 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:04 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:04 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:04 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:04 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:04 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:04 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:04 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:04 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:04 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:04 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:46 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:46 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:46 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:46 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:46 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:46 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:46 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:46 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:46 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:46 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:46 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:36:46 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:38:14 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:38:14 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:38:14 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:38:14 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:38:14 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:38:14 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:38:14 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:38:14 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:38:14 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:38:14 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:38:14 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:38:14 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:38:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:38:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:38:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:38:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:38:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:38:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:38:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:38:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:38:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:38:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:38:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:38:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:40:30 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:40:30 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:40:30 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:40:30 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:40:30 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:40:30 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:40:30 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:40:30 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:40:30 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:40:30 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:40:30 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 13:40:30 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:24:17 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:24:17 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:24:17 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:24:17 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:24:17 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:24:17 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:24:17 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:24:17 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:24:17 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:24:17 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:24:17 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:24:17 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:26:11 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:26:11 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:26:11 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:26:11 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:26:11 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:26:11 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:26:11 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:26:11 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:26:11 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:26:11 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:26:11 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:26:11 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:26:46 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:26:46 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:26:46 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:26:46 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:26:46 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:26:46 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:26:46 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:26:46 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:26:46 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:26:46 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:26:46 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:26:46 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:27:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:27:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:27:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:27:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:27:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:27:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:27:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:27:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:27:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:27:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:27:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:27:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:28:12 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:28:12 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:28:12 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:28:12 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:28:12 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:28:12 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:28:12 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:28:12 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:28:12 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:28:12 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:28:12 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:28:12 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:28:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:28:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:28:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:28:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:28:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:28:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:28:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:28:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:28:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:28:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:28:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:28:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:30:44 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:30:44 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:30:44 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:30:44 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:30:44 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:30:44 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:30:44 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:30:44 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:30:44 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:30:44 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:30:44 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:30:44 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:31:12 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:31:12 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:31:12 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:31:12 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:31:12 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:31:12 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:31:12 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:31:12 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:31:12 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:31:12 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:31:12 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:31:12 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:51:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:51:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:51:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:51:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:51:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:51:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:51:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:51:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:51:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:51:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:51:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:51:42 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:51:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:51:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:51:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:51:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:51:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:51:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:51:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:51:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:51:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:51:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:51:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:51:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:53:10 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:53:10 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:53:10 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:53:10 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:53:10 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:53:10 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:53:10 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:53:10 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:53:10 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:53:10 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:53:10 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:53:10 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:55:01 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:55:01 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:55:01 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:55:01 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:55:01 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:55:01 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:55:01 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:55:01 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:55:01 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:55:01 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:55:01 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:55:01 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:56:53 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:56:53 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:56:53 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:56:53 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:56:53 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:56:53 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:56:53 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:56:53 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:56:53 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:56:53 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:56:53 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:56:53 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:58:34 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:58:34 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:58:34 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:58:34 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:58:34 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:58:34 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:58:34 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:58:34 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:58:34 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:58:34 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:58:34 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 14:58:34 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:00:41 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:00:41 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:00:41 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:00:41 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:00:41 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:00:41 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:00:41 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:00:41 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:00:41 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:00:41 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:00:41 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:00:41 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:01:11 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:01:11 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:01:11 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:01:11 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:01:11 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:01:11 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:01:11 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:01:11 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:01:11 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:01:11 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:01:11 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:01:11 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:03:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:03:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:03:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:03:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:03:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:03:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:03:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:03:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:03:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:03:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:03:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:03:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:04:17 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:04:17 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:04:17 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:04:17 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:04:17 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:04:17 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:04:17 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:04:17 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:04:17 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:04:17 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:04:17 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:04:17 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:04:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:04:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:04:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:04:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:04:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:04:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:04:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:04:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:04:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:04:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:04:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:04:52 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:05:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:05:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:05:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:05:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:05:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:05:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:05:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:05:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:05:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:05:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:05:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:05:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:16 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:16 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:16 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:16 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:16 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:16 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:16 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:16 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:16 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:16 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:16 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:16 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:51 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:51 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:51 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:51 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:51 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:51 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:51 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:51 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:51 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:51 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:51 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:06:51 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:07:50 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:07:50 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:07:50 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:07:50 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:07:50 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:07:50 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:07:50 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:07:50 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:07:50 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:07:50 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:07:50 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:07:50 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:10:14 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:10:14 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:10:14 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:10:14 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:10:14 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:10:14 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:10:14 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:10:14 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:10:14 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:10:14 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:10:14 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:10:14 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:16:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:16:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:16:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:16:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:16:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:16:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:16:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:16:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:16:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:16:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:16:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:16:39 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:16:47 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:16:47 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:16:47 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:16:47 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:16:47 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:16:47 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:16:47 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:16:47 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:16:47 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:16:47 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:16:47 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:16:47 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:17:04 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:17:04 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:17:04 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:17:04 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:17:04 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:17:04 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:17:04 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:17:04 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:17:04 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:17:04 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:17:04 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:17:04 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:17:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:17:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:17:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:17:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:17:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:17:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:17:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:17:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:17:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:17:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:17:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 15:17:55 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 16:26:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 16:26:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 16:26:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 16:26:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 16:26:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 16:26:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 16:26:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 16:26:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 16:26:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 16:26:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 16:26:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 16:26:33 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 16:33:57 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 16:33:57 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 16:33:57 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 16:33:57 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 16:33:57 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 16:33:57 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 16:33:57 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 16:33:57 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 16:33:57 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 16:33:57 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 16:33:57 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 16:33:57 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 17:21:05 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 17:21:05 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 17:21:05 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 17:21:05 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 17:21:05 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 17:21:05 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 17:21:05 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 17:21:05 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 17:21:05 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 17:21:05 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 17:21:05 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[04-Dec-2019 17:21:05 UTC] SP_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[11-Dec-2019 21:54:09 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/functions.php on line 769
+[11-Dec-2019 22:03:15 UTC] PHP Parse error:  syntax error, unexpected '$terms' (T_VARIABLE) in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/functions.php on line 736
+[16-Dec-2019 18:31:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_query() in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/front-page.php:78
+Stack trace:
+#0 /home/amirpola/idea.amirpolak.info/wp-includes/template-loader.php(98): include()
+#1 /home/amirpola/idea.amirpolak.info/wp-blog-header.php(19): require_once('/home/amirpola/...')
+#2 /home/amirpola/idea.amirpolak.info/index.php(17): require('/home/amirpola/...')
+#3 {main}
+  thrown in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/front-page.php on line 78
+[16-Dec-2019 18:31:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_query() in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/front-page.php:78
+Stack trace:
+#0 /home/amirpola/idea.amirpolak.info/wp-includes/template-loader.php(98): include()
+#1 /home/amirpola/idea.amirpolak.info/wp-blog-header.php(19): require_once('/home/amirpola/...')
+#2 /home/amirpola/idea.amirpolak.info/index.php(17): require('/home/amirpola/...')
+#3 {main}
+  thrown in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/front-page.php on line 78
+[16-Dec-2019 18:31:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_query() in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/front-page.php:78
+Stack trace:
+#0 /home/amirpola/idea.amirpolak.info/wp-includes/template-loader.php(98): include()
+#1 /home/amirpola/idea.amirpolak.info/wp-blog-header.php(19): require_once('/home/amirpola/...')
+#2 /home/amirpola/idea.amirpolak.info/index.php(17): require('/home/amirpola/...')
+#3 {main}
+  thrown in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/front-page.php on line 78
+[16-Dec-2019 18:33:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP_Query() in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/front-page.php:77
+Stack trace:
+#0 /home/amirpola/idea.amirpolak.info/wp-includes/template-loader.php(98): include()
+#1 /home/amirpola/idea.amirpolak.info/wp-blog-header.php(19): require_once('/home/amirpola/...')
+#2 /home/amirpola/idea.amirpolak.info/index.php(17): require('/home/amirpola/...')
+#3 {main}
+  thrown in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/front-page.php on line 77
+[16-Dec-2019 18:33:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP_Query() in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/front-page.php:77
+Stack trace:
+#0 /home/amirpola/idea.amirpolak.info/wp-includes/template-loader.php(98): include()
+#1 /home/amirpola/idea.amirpolak.info/wp-blog-header.php(19): require_once('/home/amirpola/...')
+#2 /home/amirpola/idea.amirpolak.info/index.php(17): require('/home/amirpola/...')
+#3 {main}
+  thrown in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/front-page.php on line 77
+[16-Dec-2019 18:34:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP_Query() in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/front-page.php:77
+Stack trace:
+#0 /home/amirpola/idea.amirpolak.info/wp-includes/template-loader.php(98): include()
+#1 /home/amirpola/idea.amirpolak.info/wp-blog-header.php(19): require_once('/home/amirpola/...')
+#2 /home/amirpola/idea.amirpolak.info/index.php(17): require('/home/amirpola/...')
+#3 {main}
+  thrown in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/front-page.php on line 77
+[16-Dec-2019 18:34:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP_Query() in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/front-page.php:74
+Stack trace:
+#0 /home/amirpola/idea.amirpolak.info/wp-includes/template-loader.php(98): include()
+#1 /home/amirpola/idea.amirpolak.info/wp-blog-header.php(19): require_once('/home/amirpola/...')
+#2 /home/amirpola/idea.amirpolak.info/index.php(17): require('/home/amirpola/...')
+#3 {main}
+  thrown in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/front-page.php on line 74
+[16-Dec-2019 18:35:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/front-page.php on line 80
+[16-Dec-2019 18:57:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/front-page.php on line 87
+[16-Dec-2019 19:00:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/front-page.php on line 88
+[16-Dec-2019 19:02:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/front-page.php on line 89
+[16-Dec-2019 19:03:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/front-page.php on line 88
+[16-Dec-2019 19:05:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/front-page.php on line 89
+[16-Dec-2019 19:05:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/front-page.php on line 88
+[16-Dec-2019 19:07:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/amirpola/idea.amirpolak.info/wp-content/themes/twentysixteen/front-page.php on line 91
